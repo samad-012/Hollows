@@ -107,7 +107,7 @@ export default function Home() {
             <h4 className="text-xs font-bold uppercase text-zinc-400">Direct Contact</h4>
             <div className="flex flex-col space-y-2 text-sm">
               <a href="tel:+918712571184" className="hover:text-amber-500 transition-colors">+91 8712571184</a>
-              <a href="mailto:contact@hollows.in" className="hover:text-amber-500 transition-colors">contact@hollows.in</a>
+              <a href="mailto:kashifmohammed473@gmail.com" className="hover:text-amber-500 transition-colors">kashifmohammed473@gmail.com</a>
             </div>
           </div>
           <div className="space-y-4">
